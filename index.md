@@ -2,23 +2,23 @@
 
 This site gives an overview of my data science projects and completed courses.
 
-Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)
+Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
 Last update: 22nd June 2020
 
 ### Public projects
 
 - Many **Kaggle** data-set projects (plus my own collated and uploaded datasets), including,
-  - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model) (a notebook on **machine-learning interpretability** which won 'kernel of the month')
-  - [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot)
-  - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r)
-  - [So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result)
+  - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to *explain* what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'.
+  - [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot): A challenge set by Kaggle to create a 'bot' that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a **ROC plot**
+  - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r): A notebook that uses keras to create a **deep learning** model, to tell the difference between normal and diseased radiograph images
+  - [So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result): A lengthy notebook detailing the statistics behind diagnostic testing
   - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial)
   - [Sentiment Analysis and Wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds)
   - [US Traffic Fatalities and ML Explainability](https://www.kaggle.com/tentotheminus9/us-traffic-fatalities-and-ml-explainability)
   - [Gravity Spy Deep Learning Model](https://www.kaggle.com/tentotheminus9/gravity-spy-deep-learning-model)
   - [Data Science Through the Ages](https://www.kaggle.com/tentotheminus9/data-science-through-the-ages)
   - [Where is Xception Looking? Grad-CAM via R](https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r)
--	Regular attendance at a monthly Leeds **data-science meetup**
+
 
 ### Work projects
 
@@ -34,14 +34,19 @@ Last update: 22nd June 2020
 - Formal data exploration, analysis and communication via **coding notebooks** for major company projects and external collaborations
 - Developing **Shiny apps** to provide tools across the company, including routine lab test results monitoring, financial reporting dashboards and automated scientific data analysis, curve fitting and outlier detection
 - Designing and implementing an **SQL database** to store Next Generation Sequencing (NGS) data, combined with a front-end to allow non-technical members of staff to query the underlying data
-- Designing and teaching data-science workshops to staff members, following the structure of **Data Carpentry** lessons
+- Designing and teaching data-science workshops to staff members, following the structure of **[Data Carpentry](https://carpentries-incubator.github.io/life-sciences-workshop/)** lessons
 - Conducting a group-wide **data audit** with the heads of all teams (scientific and financial), developing a **data strategy** for the company to improve efficieny and reduce costs
 - Leading the customer-side on the development of a Laboratory Information Management System (LIMS) in conjunction with the company IT department (working in an **Agile** framework)
 - Mentoring R&D staff on their general work and project planning, with a focus on data analysis
 
 ### Blog posts
 
+#### 2020
+
 - [COVID-19 Testing. What are your chances?](https://towardsdatascience.com/covid-19-testing-what-are-your-chances-33f0af5d2ae4)
+
+#### 2019
+
 - [Understanding Veterinary Papers — A Data and Statistics Perspective (Part 5)](https://medium.com/@tentotheminus9/understanding-veterinary-papers-a-data-and-statistics-perspective-part-5-e9eb93e36790)
 - [Understanding Veterinary Papers — A Data and Statistics Perspective (Part 4)](https://medium.com/@tentotheminus9/understanding-veterinary-papers-a-data-and-statistics-perspective-part-4-daf21d1b4abd)
 - [Understanding Veterinary Papers — A Data and Statistics Perspective (Part 3)](https://medium.com/@tentotheminus9/understanding-veterinary-papers-a-data-and-statistics-perspective-part-3-2896238e2b8e)
@@ -49,6 +54,9 @@ Last update: 22nd June 2020
 - [Understanding Veterinary Papers — A Data and Statistics Perspective (Part 1)](https://medium.com/@tentotheminus9/understanding-veterinary-papers-a-data-and-statistics-perspective-part-1-365a2b16415f)
 - [Searching for ET using AI on GCP](https://towardsdatascience.com/searching-for-et-using-ai-on-gcp-b45b07ba5b6)
 - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://towardsdatascience.com/deep-learning-literature-with-kaggle-and-google-cloud-platform-6d7d93d14997)
+
+#### 2018
+
 - [Breathing Britain](https://medium.com/@tentotheminus9/breathing-britain-c7f62983e1c6)
 - [To Sneeze or Not to Sneeze](https://medium.com/@tentotheminus9/to-sneeze-or-not-to-sneeze-11a2e36dfe89)
 - [Veterinary Stats — Reference Intervals](https://medium.com/@tentotheminus9/veterinary-stats-reference-intervals-765ac7656d1)
@@ -57,6 +65,9 @@ Last update: 22nd June 2020
 - [Veterinary Data: Twitter Scraping](https://medium.com/@tentotheminus9/veterinary-data-twitter-scraping-b0d3e6f5f36b)
 - [Veterinary Data: Machine Learning](https://medium.com/@tentotheminus9/veterinary-data-machine-learning-dd92379f4359)
 - [So, You Have a Diagnostic Test Result](https://medium.com/@tentotheminus9/so-you-have-a-diagnostic-test-result-6f45a182d1c4)
+
+#### 2017
+
 - [Veterinary Data: Tools of the Trade (Part 2 of 2)](https://medium.com/@tentotheminus9/veterinary-data-tools-of-the-trade-part-2-of-2-5ff3050665ec)
 - [Veterinary Data: Tools of the Trade (Part 1 of 2)](https://medium.com/@tentotheminus9/veterinary-data-tools-of-the-trade-part-1-of-2-bb468457c4fd)
 - [Veterinary Data: Animal Data Abound!](https://towardsdatascience.com/data-in-veterinary-animal-data-abound-8d8ba92bbdbc)
@@ -124,7 +135,9 @@ Last update: 22nd June 2020
 - **Data quality fundamentals** – Feb 2020 (Udemy)
 - **Big Data, Genes and Medicine** – Feb 2020 (Coursera)
 - **Improving your Statistical Inferences** – May 2020 (Coursera)
-- **Improving your Statistical Questions** – May 2020 (Coursera)
+- **Improving your Statistical Questions** – May 2020 (Coursera)  
+
+-	Regular attendance at a monthly Leeds **data-science meetup**
 
 ### Formal education
 
