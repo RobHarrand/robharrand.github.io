@@ -2,6 +2,9 @@
 
 This site gives an overview of my data science projects and completed courses.
 
+Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)
+Last update: 22nd June 2020
+
 ### Public projects
 
 - Many **Kaggle** data-set projects (plus my own collated and uploaded datasets), including,
