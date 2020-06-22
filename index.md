@@ -10,7 +10,7 @@ This site gives an overview of my data science projects and completed courses.
   - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r)
   - [So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result)
   - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial)
-  - [Sentiment analysis and wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds)
+  - [Sentiment Analysis and Wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds)
   - [US Traffic Fatalities and ML Explainability](https://www.kaggle.com/tentotheminus9/us-traffic-fatalities-and-ml-explainability)
   - [Gravity Spy Deep Learning Model](https://www.kaggle.com/tentotheminus9/gravity-spy-deep-learning-model)
   - [Data Science Through the Ages](https://www.kaggle.com/tentotheminus9/data-science-through-the-ages)
