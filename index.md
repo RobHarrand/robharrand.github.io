@@ -50,6 +50,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 - Conducting a group-wide **data audit** with the heads of all teams (scientific and financial), developing a **data strategy** for the company to improve efficieny and reduce costs:  A project that kick-started a continuous area of process improvement work, and focussing attentional on the data-related business requirements for the company  
 - Leading the customer-side on the development of a Laboratory Information Management System (LIMS) in conjunction with the company IT department (working in an **Agile** framework):  Working with IT to create this system, focussing on user requirements. I also used R and Python scripts to allow calculations to be done outside of the LIMS, expanding its capabilities  
 - Mentoring R&D staff on their general work and project planning, with a focus on data analysis: Improving the R&D team's use of data overall  
+- At the time of writing, I am working on some Next Generation Sequencing data analysis using **Spark** on **AWS**  
 
 ### Blog posts
 
