@@ -20,6 +20,8 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Gravity Spy Deep Learning Model](https://www.kaggle.com/tentotheminus9/gravity-spy-deep-learning-model): A keras-based notebook that creates a simple CNN for classification of some astronomy data  
   - [Data Science Through the Ages](https://www.kaggle.com/tentotheminus9/data-science-through-the-ages): A notebook analysing some Kaggle survey data  
   - [Where is Xception Looking? Grad-CAM via R](https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r): A notebook that uses **Grad-CAM** to show what parts of an images a deep learning model is using for it's decision making process  
+  - [Linear Regression from scratch (Gradient Descent)](https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent): A fun notebook that creates an animation of **gradient descent** in action!  
+  - [Central Limit Theorem Animation](https://www.kaggle.com/tentotheminus9/central-limit-theorem-animation): Another fun notebook, showing the **central limit theorem** in action
 
 
 ### Work projects
