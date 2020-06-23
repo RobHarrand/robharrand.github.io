@@ -7,7 +7,8 @@ Last update: 22nd June 2020
 
 ### Public projects
 
-- I've spent many, many hours on **Kaggle** over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  
+I've spent many, many hours on **Kaggle** over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  
+
   - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'  
   - [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot): A challenge set by Kaggle to create a 'bot' that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a **ROC plot**  
   - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r): A notebook that uses **keras** to create a **deep learning** model, to tell the difference between normal and diseased radiograph images  
@@ -23,7 +24,6 @@ Last update: 22nd June 2020
 ### Work projects
 
 - Implementing **data management** and **data quality** standard operating procedures: This is an ongoing piece of work, improving the overall data maturity of the company. This is being done by improving systems and processes, and the data literacy of staff  
-  
 - Designing new, streamlined workflows, combined with data cleaning of old financial and CRM system databases: Lots of legacy systems that needed a lot of cleaning up. This has been done (and continues to be done) using R and Python scripts  
 - Developing **machine-learning models** for disease diagnosis: Pretty simple but interesting models using veterinary blood biomarkers and a few clinical signs. These were for dogs and cats, classifying diseased pets into different possible disease categories  
 - Prototyping **deep-learning models** for disease detection in canine chest X-rays: A proof-of-concept project applying deep learning models to veterinary X-rays (DICOM image format). Models were created and evaluated using keras in Pythons, but data quality was unfortunately too poor to take things further. A handful of CT-scans were also explored via Python  
