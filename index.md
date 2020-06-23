@@ -7,6 +7,8 @@ Last update: 22nd June 2020
 
 ### Public projects
 
+#### Kaggle
+
 I've spent many, many hours on **Kaggle** over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  
 
   - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'  
@@ -22,7 +24,13 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Where is Xception Looking? Grad-CAM via R](https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r): A notebook that uses **Grad-CAM** to show what parts of an images a deep learning model is using for it's decision making process  
   - [Linear Regression from scratch (Gradient Descent)](https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent): A fun notebook that creates an animation of **gradient descent** in action!  
   - [Central Limit Theorem Animation](https://www.kaggle.com/tentotheminus9/central-limit-theorem-animation): Another fun notebook, showing the **central limit theorem** in action
+  
+#### Other
 
+  - [Leeds Cycling Dashboard](https://datamillnorth.org/products/leeds-cycling-dashboard/): A Shiny app showing cycling incidents in the Leeds area using open-data  
+  - [Leeds Public Health Dashboard](https://datamillnorth.org/products/leeds-public-health-dashboard/): A Shiny app showing mortality and disease rates in the Leeds area using open-data  
+  - [Live pig transports across Europe in 2013](https://robharrand.shinyapps.io/stoplivetransport_shiny/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for the 'Stop Live Transport' charity campaign  
+  - [Visualizing Factory Farms for The Humane League's 88% campaign](https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for a Humane League charity campaign  
 
 ### Work projects
 
