@@ -23,6 +23,7 @@ Last update: 22nd June 2020
 ### Work projects
 
 - Implementing **data management** and **data quality** standard operating procedures: This is an ongoing piece of work, improving the overall data maturity of the company. This is being done by improving systems and processes, and the data literacy of staff  
+  
 - Designing new, streamlined workflows, combined with data cleaning of old financial and CRM system databases: Lots of legacy systems that needed a lot of cleaning up. This has been done (and continues to be done) using R and Python scripts  
 - Developing **machine-learning models** for disease diagnosis: Pretty simple but interesting models using veterinary blood biomarkers and a few clinical signs. These were for dogs and cats, classifying diseased pets into different possible disease categories  
 - Prototyping **deep-learning models** for disease detection in canine chest X-rays: A proof-of-concept project applying deep learning models to veterinary X-rays (DICOM image format). Models were created and evaluated using keras in Pythons, but data quality was unfortunately too poor to take things further. A handful of CT-scans were also explored via Python  
