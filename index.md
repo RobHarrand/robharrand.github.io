@@ -30,7 +30,8 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Leeds Cycling Dashboard](https://datamillnorth.org/products/leeds-cycling-dashboard/): A Shiny app showing cycling incidents in the Leeds area using open-data  
   - [Leeds Public Health Dashboard](https://datamillnorth.org/products/leeds-public-health-dashboard/): A Shiny app showing mortality and disease rates in the Leeds area using open-data  
   - [Live pig transports across Europe in 2013](https://robharrand.shinyapps.io/stoplivetransport_shiny/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for the 'Stop Live Transport' charity campaign  
-  - [Visualizing Factory Farms for The Humane League's 88% campaign](https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for a Humane League charity campaign  
+  - [Visualizing Factory Farms for The Humane League's 88% campaign](https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for a Humane League charity campaign
+  - [House price prediction app using Python and Flask deployed on Heroku](http://houseprice2020.herokuapp.com/)
 
 ### Work projects
 
