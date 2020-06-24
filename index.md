@@ -3,7 +3,7 @@
 This site gives an overview of my data science projects and completed courses.
 
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
-Last update: 22nd June 2020
+Last update: 24th June 2020
 
 ### Public projects
 
@@ -31,7 +31,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Leeds Public Health Dashboard](https://datamillnorth.org/products/leeds-public-health-dashboard/): A Shiny app showing mortality and disease rates in the Leeds area using open-data  
   - [Live pig transports across Europe in 2013](https://robharrand.shinyapps.io/stoplivetransport_shiny/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for the 'Stop Live Transport' charity campaign  
   - [Visualizing Factory Farms for The Humane League's 88% campaign](https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for a Humane League charity campaign
-  - [House price prediction app using Python and Flask deployed on Heroku](http://houseprice2020.herokuapp.com/)
+  - [House price prediction app using Python and Flask deployed on Heroku](http://houseprice2020.herokuapp.com/): A short project that used some house price data from Kaggle to create a machine-learning model (using **random forest** and **hyperparameter tuning**), then deployed online via **Heroku** and **Flask**.
 
 ### Work projects
 
