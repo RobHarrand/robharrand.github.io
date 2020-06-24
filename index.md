@@ -58,6 +58,8 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 #### 2020
 
 - [COVID-19 Testing. What are your chances?](https://towardsdatascience.com/covid-19-testing-what-are-your-chances-33f0af5d2ae4)
+- [Animal Rights Across the Globe — The Numbers](https://medium.com/@tentotheminus9/animal-rights-across-the-globe-the-numbers-cdc84993da2b)
+- [Applying Data Science]()
 
 #### 2019
 
