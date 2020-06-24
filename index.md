@@ -55,9 +55,12 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 
 ### Blog posts
 
+Several of the posts below have been picked up by the 'Towards Data Science' team on Medium,
+
 #### 2020
 
 - [COVID-19 Testing. What are your chances?](https://towardsdatascience.com/covid-19-testing-what-are-your-chances-33f0af5d2ae4)
+- [Is Data Science For You?](https://towardsdatascience.com/is-data-science-for-you-6cbe995ad349)
 - [Animal Rights Across the Globe — The Numbers](https://medium.com/@tentotheminus9/animal-rights-across-the-globe-the-numbers-cdc84993da2b)
 - [Applying Data Science]()
 
