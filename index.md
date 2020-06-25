@@ -3,7 +3,7 @@
 This site gives an overview of my data science projects and completed courses.
 
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
-Last update: 24th June 2020
+Last update: 25th June 2020
 
 ### Public projects
 
@@ -62,7 +62,7 @@ Several of the posts below have been picked up by the 'Towards Data Science' tea
 - [COVID-19 Testing. What are your chances?](https://towardsdatascience.com/covid-19-testing-what-are-your-chances-33f0af5d2ae4)
 - [Is Data Science For You?](https://towardsdatascience.com/is-data-science-for-you-6cbe995ad349)
 - [Animal Rights Across the Globe — The Numbers](https://medium.com/@tentotheminus9/animal-rights-across-the-globe-the-numbers-cdc84993da2b)
-- [Applying Data Science]()
+- [Applying Data Science](https://towardsdatascience.com/applying-data-science-8b5d3a332d8c)
 
 #### 2019
 
