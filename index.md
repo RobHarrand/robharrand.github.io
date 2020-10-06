@@ -13,7 +13,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 
   - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'
   
-<img src="/images/heart.png" alt="Heart disease factors" width="400"/>
+<img src="/images/heart.png" alt="Heart disease factors" width="300"/>
   
   - [Breakthrough Listen: L-Band Data](https://www.kaggle.com/tentotheminus9/l-band-2017): My favourite hobby project to date, and one which kept me busy on many evenings and weekends. I started to look into data by SETI (the Search for Extraterrestrial Intelligence) after seeing that they'd openly shared a huge collection of datasets. I uploaded some of the data to Kaggle and created this notebook, which recreates the findings from a research paper. I also uploaded some more data and created a **deep learning** model in **keras** to classify signal types (see [here](SETI Simulated Signals - InceptionResNetV2)). Finally, I created some Python notebooks on **Google Cloud Platform** that did some novel data processing with SETI data. The files are on Github [here](https://github.com/RobHarrand/SETI_GCP)  
   
@@ -26,7 +26,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   
   - [So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result): A lengthy notebook detailing the statistics behind diagnostic testing  
 
-<img src="/images/diag.png" alt="Prior to posterior probability" width="200"/>
+<img src="/images/diag.png" alt="Prior to posterior probability" width="300"/>
  
   - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial): This was a fun project that used GCP to run a daily script (via **cron**) that downloaded the latest deep learning literature via the National Center for Biotechnology Information (NCBI) API, extract certain bits of information, and then update a Kaggle notebook using the Kaggle API. The team over at Kaggle really liked it and asked me to blog about it  
   - [Sentiment Analysis and Wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds): A simple notebook using a **text-mining** package in R  
@@ -35,7 +35,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Data Science Through the Ages](https://www.kaggle.com/tentotheminus9/data-science-through-the-ages): A notebook analysing some Kaggle survey data  
   - [Where is Xception Looking? Grad-CAM via R](https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r): A notebook that uses **Grad-CAM** to show what parts of an images a deep learning model is using for it's decision making process  
   
-<img src="/images/grad.png" alt="Grad-CAM" width="400"/>  
+<img src="/images/grad.png" alt="Grad-CAM" width="200"/>  
   
   - [Linear Regression from scratch (Gradient Descent)](https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent): A fun notebook that creates an animation of **gradient descent** in action!  
   - [Central Limit Theorem Animation](https://www.kaggle.com/tentotheminus9/central-limit-theorem-animation): Another fun notebook, showing the **central limit theorem** in action
