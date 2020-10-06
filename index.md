@@ -3,7 +3,7 @@
 This site gives an overview of my data science projects and completed courses.
 
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
-Last update: 25th June 2020
+Last update: 6th September 2020
 
 ### Public projects
 
@@ -11,7 +11,10 @@ Last update: 25th June 2020
 
 I've spent many, many hours on **Kaggle** over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  
 
-  - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'  
+  - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'
+  
+![](/images/heart.png)
+  
   - [Breakthrough Listen: L-Band Data](https://www.kaggle.com/tentotheminus9/l-band-2017): My favourite hobby project to date, and one which kept me busy on many evenings and weekends. I started to look into data by SETI (the Search for Extraterrestrial Intelligence) after seeing that they'd openly shared a huge collection of datasets. I uploaded some of the data to Kaggle and created this notebook, which recreates the findings from a research paper. I also uploaded some more data and created a **deep learning** model in **keras** to classify signal types (see [here](SETI Simulated Signals - InceptionResNetV2)). Finally, I created some Python notebooks on **Google Cloud Platform** that did some novel data processing with SETI data. The files are on Github [here](https://github.com/RobHarrand/SETI_GCP)  
   - [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot): A challenge set by Kaggle to create a 'bot' that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a **ROC plot**  
   - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r): A notebook that uses keras to create a deep learning model, to tell the difference between normal and diseased radiograph images  
