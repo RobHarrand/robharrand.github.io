@@ -17,16 +17,16 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   
   - [Breakthrough Listen: L-Band Data](https://www.kaggle.com/tentotheminus9/l-band-2017): My favourite hobby project to date, and one which kept me busy on many evenings and weekends. I started to look into data by SETI (the Search for Extraterrestrial Intelligence) after seeing that they'd openly shared a huge collection of datasets. I uploaded some of the data to Kaggle and created this notebook, which recreates the findings from a research paper. I also uploaded some more data and created a **deep learning** model in **keras** to classify signal types (see [here](SETI Simulated Signals - InceptionResNetV2)). Finally, I created some Python notebooks on **Google Cloud Platform** that did some novel data processing with SETI data. The files are on Github [here](https://github.com/RobHarrand/SETI_GCP)  
   
-<img src="/images/seti.png" alt="SETI data" width="400"/>
+<img src="/images/seti.png" alt="SETI data" width="300"/>
   
   - [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot): A challenge set by Kaggle to create a 'bot' that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a **ROC plot**  
   - [Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r): A notebook that uses keras to create a deep learning model, to tell the difference between normal and diseased radiograph images 
   
-<img src="/images/xray.png" alt="ROC plot" width="400"/>
+<img src="/images/xray.png" alt="ROC plot" width="300"/>
   
   - [So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result): A lengthy notebook detailing the statistics behind diagnostic testing  
 
-<img src="/images/diag.png" alt="Prior to posterior probability" width="400"/>
+<img src="/images/diag.png" alt="Prior to posterior probability" width="200"/>
  
   - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial): This was a fun project that used GCP to run a daily script (via **cron**) that downloaded the latest deep learning literature via the National Center for Biotechnology Information (NCBI) API, extract certain bits of information, and then update a Kaggle notebook using the Kaggle API. The team over at Kaggle really liked it and asked me to blog about it  
   - [Sentiment Analysis and Wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds): A simple notebook using a **text-mining** package in R  
