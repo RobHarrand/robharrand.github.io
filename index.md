@@ -3,7 +3,7 @@
 This site gives an overview of my data science projects and completed courses.
 
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
-Last update: 6th September 2020
+Last update: 27th October 2020
 
 ### Public projects
 
@@ -171,7 +171,9 @@ I have always enjoyed data science courses, and have tended to alternate between
 - **Data quality fundamentals** – Feb 2020 (Udemy)
 - **Big Data, Genes and Medicine** – Feb 2020 (Coursera)
 - **Improving your Statistical Inferences** – May 2020 (Coursera)
-- **Improving your Statistical Questions** – May 2020 (Coursera)  
+- **Improving your Statistical Questions** – May 2020 (Coursera)
+- **ISO 13485:2016 for Medical Device Development and QMS** - October 2020 (Udemy)
+- **Data Governance Fundamentals** - October 2020 (Udemy)
 
 -	Regular attendance at a monthly Leeds **data-science meetup**
 
