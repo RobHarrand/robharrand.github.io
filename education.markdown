@@ -14,66 +14,68 @@ permalink: /education/
 
 I have always enjoyed data science courses, and have tended to alternate between courses and projects (working on projects after a few courses, to cement the concepts that I had just covered). Many of the below courses also involved project work.
 
-- **The Data Scientist's Toolbox** - Coursera - Nov 2015
-- **R Programming** - Coursera - Nov 2015
-- **Getting and Cleaning Data** - Coursera - Nov 2015
-- **Exploratory Data Analysis** - Coursera - Nov 2015
-- **Reproducible Research** - Coursera - Nov 2015
-- **Statistical Inference** - Coursera - Nov 2015
-- **Regression Models** - Coursera - Jan 2016
-- **Practical Machine Learning** - Coursera - Jan 2016
-- **Developing Data Products** - Coursera - Jan 2016
-- **Taming Big Data with MapReduce and Hadoop** - Udemy - Jan 2016
-- **Python Step by Step: Build a Data Analysis Program** - Udemy - Jan 2016
-- **Practical SQL Skills** - Udemy - Jan 2016
-- **Hadoop Starter Kit** - Udemy - Jan 2016
-- **Data Science Capstone** - Coursera - April 2016
-- **R for Big Data** - Newcastle University - June 2016
-- **Machine Learning** - Coursera - June 2016
-- **Workshop in Probability and Statistics** - Udemy - June 2016
-- **Supercharge R with SparkR** - Udemy - June 2016
-- **Time Series Analysis and Forecasting in R** - July 2016
-- **Bayesian Statistics** - Coursera - August 2016
-- **Managing Big Data with MySQL** - Coursera - August 2016
-- **Numpy stack** - Udemy - Feb 2017
-- **Javascript Basics** - Udacity - March 2017
-- **Data Visualisation and D3js** - Udacity - March 2017
-- **Big Data and Social Analytics** - MIT Experimental Learning - March 2017
-- **Python Beyond the Basics** - Object-Oriented Programming - Udemy - April 2017
-- **Linear Algebra Refresher** - Udacity - May 2017
-- **Research Data Management and Sharing** - Coursera - May 2017
-- **Agile and Scrum Bootcamp** - Udemy - June 2017
-- **Big Data with Hadoop and Spark** - CloudxLab - June 2017
-- **Neural Networks and Deep Learning** - Coursera - December 2017
-- **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** - Coursera - January 2018
-- **Structuring Machine Learning Projects** - January 2018
-- **Convolutional Neural Networks** - February 2018
-- **Data science ethics** - February 2018
-- **Sequence models** - March 2018
-- **Tableau 10: Practical and Concise** - Udemy, July 2018
-- **A Crash Course in Data Science** - June 2018
-- **Building a Data Science Team** - June 2018
-- **Managing Data Analysis** - July 2018
-- **Data Science in Real Life** - July 2018
-- **Executive Data Science Capstone** - July 2018
-- **The Unix Workbench** - July 2018
-- **Google Cloud Platform Big Data and Machine Learning Fundamentals** - January 2019
-- **Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform** - January 2019
-- **Serverless Data Analysis with Google BigQuery and Cloud Dataflow** - January 2019
-- **Serverless Machine Learning with Tensorflow on Google Cloud Platform** - February 2019
-- **Building Resilient Streaming Systems on Google Cloud Platform** - March 2019
-- **Machine Learning Explainability** - Kaggle Learn - May 2019
-- **Foundations of strategic business analytics** - July 2019
-- **Foundations of marketing analytics** - July 2019
-- **Case studies in business analytics with ACCENTURE** - August 2019
-- **Capstone: Create Value from Open Data** - September 2019
-- **The Manager's Toolkit: A Practical Guide to Managing People at Work** - September 2019
-- **Data quality fundamentals** - Feb 2020 (Udemy)
-- **Big Data, Genes and Medicine** - Feb 2020 (Coursera)
-- **Improving your Statistical Inferences** - May 2020 (Coursera)
-- **Improving your Statistical Questions** - May 2020 (Coursera)
-- **ISO 13485:2016 for Medical Device Development and QMS** - October 2020 (Udemy)
-- **Data Governance Fundamentals** - October 2020 (Udemy)
+- **3D SARS-CoV-19 Protein Visualization With Biopython Project** - January 2021 (Coursera)
+- **Introduction to Genomic Technologies** - January 2021 (Coursera)
 - **Internal audit on Medical Device QMS - ISO 13485:2016** - November 2020 (Udemy)
+- **Data Governance Fundamentals** - October 2020 (Udemy)
+- **ISO 13485:2016 for Medical Device Development and QMS** - October 2020 (Udemy)
+- **Improving your Statistical Questions** - May 2020 (Coursera)
+- **Improving your Statistical Inferences** - May 2020 (Coursera)
+- **Big Data, Genes and Medicine** - Feb 2020 (Coursera)
+- **Data quality fundamentals** - Feb 2020 (Udemy)
+- **The Manager's Toolkit: A Practical Guide to Managing People at Work** - September 2019 (Coursera)
+- **Capstone: Create Value from Open Data** - September 2019 (Coursera)
+- **Case studies in business analytics with ACCENTURE** - August 2019 (Coursera)
+- **Foundations of marketing analytics** - July 2019 (Coursera)
+- **Foundations of strategic business analytics** - July 2019 (Coursera)
+- **Machine Learning Explainability** - May 2019 (Kaggle Learn)
+- **Building Resilient Streaming Systems on Google Cloud Platform** - March 2019 (Coursera)
+- **Serverless Machine Learning with Tensorflow on Google Cloud Platform** - February 2019 (Coursera)
+- **Serverless Data Analysis with Google BigQuery and Cloud Dataflow** - January 2019 (Coursera)
+- **Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform** - January 2019 (Coursera)
+- **Google Cloud Platform Big Data and Machine Learning Fundamentals** - January 2019 (Coursera)
+- **The Unix Workbench** - July 2018 (Coursera)
+- **Executive Data Science Capstone** - July 2018 (Coursera)
+- **Data Science in Real Life** - July 2018 (Coursera)
+- **Managing Data Analysis** - July 2018 (Coursera)
+- **Building a Data Science Team** - June 2018 (Coursera)
+- **A Crash Course in Data Science** - June 2018 (Coursera)
+- **Tableau 10: Practical and Concise** - July 2018 (Udemy)
+- **Sequence models** - March 2018 (Coursera)
+- **Data science ethics** - February 2018 (Coursera)
+- **Convolutional Neural Networks** - February 2018 (Coursera)
+- **Structuring Machine Learning Projects** - January 2018 (Coursera)
+- **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** - January 2018 (Coursera)
+- **Neural Networks and Deep Learning** - December 2017 (Coursera)
+- **Big Data with Hadoop and Spark** - June 2017 (CloudXLab)
+- **Agile and Scrum Bootcamp** - June 2017 (Udemy)
+- **Research Data Management and Sharing** - May 2017 (Coursera)
+- **Linear Algebra Refresher** - May 2017 (Udacity)
+- **Python Beyond the Basics** - Object-Oriented Programming - April 2017 (Udemy)
+- **Big Data and Social Analytics** - March 2017 (MIT Experimental Learning)
+- **Data Visualisation and D3js** - March 2017 (Udacity)
+- **Javascript Basics** - March 2017 (Udacity)
+- **Numpy stack** - Feb 2017 (Udemy)
+- **Managing Big Data with MySQL** - August 2016 (Coursera)
+- **Bayesian Statistics** - August 2016 (Coursera)
+- **Time Series Analysis and Forecasting in R** - July 2016 (Udemy)
+- **Supercharge R with SparkR** - June 2016 (Udemy)
+- **Workshop in Probability and Statistics** - June 2016 (Udemy)
+- **Machine Learning** - June 2016 (Coursera)
+- **R for Big Data** - June 2016 (Newcastle University)
+- **Data Science Capstone** - April 2016 (Coursera)
+- **Hadoop Starter Kit** - Jan 2016 (Udemy)
+- **Practical SQL Skills** - Jan 2016 (Udemy)
+- **Python Step by Step: Build a Data Analysis Program** - Jan 2016 (Udemy)
+- **Taming Big Data with MapReduce and Hadoop** - Jan 2016 (Udemy)
+- **Developing Data Products** - Jan 2016 (Coursera)
+- **Practical Machine Learning** - Jan 2016 (Coursera)
+- **Regression Models** - Jan 2016 (Coursera)
+- **Statistical Inference** - Nov 2015 (Coursera)
+- **Reproducible Research** - Nov 2015 (Coursera)
+- **Exploratory Data Analysis** - Nov 2015 (Coursera)
+- **Getting and Cleaning Data** - Nov 2015 (Coursera)
+- **R Programming** - Nov 2015 (Coursera)
+- **The Data Scientist's Toolbox** - Nov 2015 (Coursera)
 
--	Regular attendance at a monthly Leeds **data-science meetup**
+-	Regular attendance at a monthly Leeds **data-science meetup** (Pre-Covid19)

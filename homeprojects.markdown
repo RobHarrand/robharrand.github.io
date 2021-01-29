@@ -30,7 +30,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
  
 - Covid19 cases over time animation in R, using data from the UK government [Covid19 website](https://coronavirus.data.gov.uk/details/download){:target="_blank"}, GitHub gist for the code [here](https://gist.github.com/RobHarrand/5c9e35d10a37fe3fa4d527d7504dedbf){:target="_blank"}
 
-<img src="/images/covid_uk.gif" alt="Covid19 animation" width="300"/>
+<img src="/images/covid_uk.gif" alt="Covid19 animation" width="700"/>
  
 - [Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial){:target="_blank"}: This was a fun project that used GCP to run a daily script (via **cron**) that downloaded the latest deep learning literature via the National Center for Biotechnology Information (NCBI) API, extract certain bits of information, and then update a Kaggle notebook using the Kaggle API. The team over at Kaggle really liked it and asked me to blog about it  
 

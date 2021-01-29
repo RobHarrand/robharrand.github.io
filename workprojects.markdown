@@ -12,7 +12,9 @@ permalink: /workprojects/
 
 - Developing **machine-learning models** for disease diagnosis: Pretty simple but interesting models using veterinary blood biomarkers and a few clinical signs. These were for dogs and cats, classifying diseased pets into different possible disease categories
 
-- Prototyping **deep-learning models** for disease detection in canine chest X-rays: A proof-of-concept project applying deep learning models to veterinary X-rays (DICOM image format). Models were created and evaluated using keras in Pythons, but data quality was unfortunately too poor to take things further. A handful of CT-scans were also explored via Python  
+- Prototyping **deep-learning models** for disease detection in canine chest X-rays: A proof-of-concept project applying deep learning models to veterinary X-rays (DICOM image format). Models were created and evaluated using keras in Pythons, but data quality was unfortunately too poor to take things further. A handful of CT-scans were also explored via Python
+
+<img src="/images/dog_ct.jpg" alt="Dog CT scan (bone only)" width="300"/>
 
 -	Helped to inform the company's international strategy using analysis of open datasets: A small but interesting peice of work bringing together multiple open-source datasets to try and give some evidence behind which parts of the world to target for international sales/R&D  
 
