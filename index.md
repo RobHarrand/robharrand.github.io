@@ -3,7 +3,7 @@
 This site gives an overview of my data science projects and completed courses.
 
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
-Last update: 27th October 2020
+Last update: 12th January 2022
 
 ### Public projects
 
@@ -56,9 +56,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 - Prototyping **deep-learning models** for disease detection in canine chest X-rays: A proof-of-concept project applying deep learning models to veterinary X-rays (DICOM image format). Models were created and evaluated using keras in Pythons, but data quality was unfortunately too poor to take things further. A handful of CT-scans were also explored via Python  
 -	Helped to inform the company's international strategy using analysis of open datasets: A small but interesting peice of work bringing together multiple open-source datasets to try and give some evidence behind which parts of the world to target for international sales/R&D  
 - Statistical analysis and data visualisation on equine allergy paper titled ["Co‐reactivity between related and unrelated environmental allergens in equine allergen‐specific IgE serology testing in the UK."](https://onlinelibrary.wiley.com/doi/abs/10.1111/vde.12786): A really interesting study that involved calculating odds ratios between multiple blood-marker measurements, along with some nice correlations plots in R  
-- Aiding scientists in the statistical design of experiments, including **power calculations**, data management planning, avoiding bias, etc.: Ad hoc support across the company  
-- Aiding in the interpretation of diagnostic tests results using **Bayesian priors** and **likelihood ratios**: A lot of diagnostic testing seems to be reduced to quoting sensitivity and specificity for a given test. Using Bayesian statistics, such measures were put into a more realistic setting using prior probabilities based upon clinical signs  
-- Using data-driven marketing techniques such as **RFM segmentation** and **clustering** of customers, combined with reporting **dashboards**, to direct the company’s sales team: This project took the existing approach to sales from being largely instinct-driven to using data and evidence. A R Shiny app was created, that automatically pulled sales data from the companies Sage system via SQL commands, preprocessed it, and displayed sales on an interactive map. Each point was classified and colour-coded by RFM (Recency, Frequency, Monetary value) segment, which were determined using **k-means** clustering. The app also generated tables, reports and PowerPoint slides, and included metrics such as **customer lifetime value** to arm the sales team with all the information they required to plan their diaries. This RFM work also informed the company marketing strategy, which up until this point had involved sending the same message to all customers  
+- Aiding scientists in the statistical design of experiments, including **power calculations**, data management planning, avoiding bias, etc.: Ad hoc support across the company  - Aiding in the interpretation of diagnostic tests results using **Bayesian priors** and **likelihood ratios**: A lot of diagnostic testing seems to be reduced to quoting sensitivity and specificity for a given test. Using Bayesian statistics, such measures were put into a more realistic setting using prior probabilities based upon clinical signs  - Using data-driven marketing techniques such as **RFM segmentation** and **clustering** of customers, combined with reporting **dashboards**, to direct the company’s sales team: This project took the existing approach to sales from being largely instinct-driven to using data and evidence. A R Shiny app was created, that automatically pulled sales data from the companies Sage system via SQL commands, preprocessed it, and displayed sales on an interactive map. Each point was classified and colour-coded by RFM (Recency, Frequency, Monetary value) segment, which were determined using **k-means** clustering. The app also generated tables, reports and PowerPoint slides, and included metrics such as **customer lifetime value** to arm the sales team with all the information they required to plan their diaries. This RFM work also informed the company marketing strategy, which up until this point had involved sending the same message to all customers  
 - Formal data exploration, analysis and communication via **coding notebooks** for major company projects and external collaborations: Previously, all data and results for collaborations or CRO work were shared via Excel spreadsheets. I began to also send R notebooks in order to make our analysis reproducible and transparent  
 - Developing **Shiny apps** to provide tools across the company, including routine lab test results monitoring, financial reporting dashboards and automated scientific data analysis, curve fitting and outlier detection: These apps were created for two main reasons. First, to reduce the amount of manual analysis and/or subjective decision making that was needed across the company. Second, to reduce the scope for error  
 - Designing and implementing an **SQL database** to store Next Generation Sequencing (NGS) data, combined with a front-end to allow non-technical members of staff to query the underlying data: A large project using a Shiny app and a mySQL database to store data and utilise complex nucleotide data. I later recreated it in asp.net  
@@ -67,10 +65,19 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 - Leading the customer-side on the development of a Laboratory Information Management System (LIMS) in conjunction with the company IT department (working in an **Agile** framework):  Working with IT to create this system, focussing on user requirements. I also used R and Python scripts to allow calculations to be done outside of the LIMS, expanding its capabilities  
 - Mentoring R&D staff on their general work and project planning, with a focus on data analysis: Improving the R&D team's use of data overall  
 - At the time of writing, I am working on some Next Generation Sequencing data analysis using **Spark** on **AWS**  
+- Consultancy work on data-driven dashboard design
+- Consultancy work on a machine-learning model that uses **Natural Language Processing (NPL)** to auto-classify government tenders
 
 ### Blog posts
 
 Several of the posts below have been picked up by the 'Towards Data Science' team on Medium,
+
+#### 2021
+
+- [Marathon Training: A Data Perspective](https://towardsdatascience.com/marathon-training-a-data-perspective-ba2fc00c912b)
+- [Affimer Proteins: Next Generation Sequencing Data Analysis (Part 3)](https://towardsdatascience.com/affimer-proteins-next-generation-sequencing-data-analysis-part-3-90b4304413b5)
+- [Affimer Proteins: Next Generation Sequencing Data Analysis (Part 2)](https://towardsdatascience.com/affimer-proteins-next-generation-sequencing-data-analysis-part-2-8ebc0e90f460)
+- [Affimer Proteins: Next Generation Sequencing Data Analysis (Part 1)](https://towardsdatascience.com/affimer-proteins-next-generation-sequencing-data-analysis-part-1-ac6a252842be)
 
 #### 2020
 
@@ -114,71 +121,77 @@ Several of the posts below have been picked up by the 'Towards Data Science' tea
 
 I have always enjoyed data science courses, and have tended to alternate between courses and projects (working on projects after a few courses, to cement the concepts that I had just covered). Many of the below courses also involved project work.
 
-- **The Data Scientist’s Toolbox** – Coursera - Nov 2015
-- **R Programming** – Coursera – Nov 2015
-- **Getting and Cleaning Data** – Coursera – Nov 2015
-- **Exploratory Data Analysis** – Coursera – Nov 2015
-- **Reproducible Research** – Coursera – Nov 2015
-- **Statistical Inference** - Coursera – Nov 2015
-- **Regression Models** – Coursera – Jan 2016
-- **Practical Machine Learning** – Coursera – Jan 2016
-- **Developing Data Products** – Coursera – Jan 2016
-- **Taming Big Data with MapReduce and Hadoop** – Udemy – Jan 2016
-- **Python Step by Step: Build a Data Analysis Program** – Udemy – Jan 2016
-- **Practical SQL Skills** – Udemy – Jan 2016
-- **Hadoop Starter Kit** – Udemy – Jan 2016
-- **Data Science Capstone** – Coursera – April 2016
-- **R for Big Data** – Newcastle University – June 2016
-- **Machine Learning** – Coursera – June 2016
-- **Workshop in Probability and Statistics** – Udemy – June 2016
-- **Supercharge R with SparkR** – Udemy - June 2016
-- **Time Series Analysis and Forecasting in R** – July 2016
-- **Bayesian Statistics** – Coursera - August 2016
-- **Managing Big Data with MySQL** – Coursera – August 2016
-- **Numpy stack** – Udemy – Feb 2017
-- **Javascript Basics** – Udacity – March 2017
-- **Data Visualisation and D3js** – Udacity – March 2017
-- **Big Data and Social Analytics** – MIT Experimental Learning – March 2017
-- **Python Beyond the Basics** - Object-Oriented Programming – Udemy – April 2017
-- **Linear Algebra Refresher** – Udacity – May 2017
-- **Research Data Management and Sharing** – Coursera – May 2017
-- **Agile and Scrum Bootcamp** – Udemy – June 2017
-- **Big Data with Hadoop and Spark** – CloudxLab – June 2017
-- **Neural Networks and Deep Learning** – Coursera – December 2017
-- **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** – Coursera – January 2018
-- **Structuring Machine Learning Projects** – January 2018
-- **Convolutional Neural Networks** – February 2018
-- **Data science ethics** – February 2018
-- **Sequence models** – March 2018
-- **Tableau 10: Practical and Concise** – Udemy, July 2018
-- **A Crash Course in Data Science** – June 2018
-- **Building a Data Science Team** – June 2018
-- **Managing Data Analysis** – July 2018
-- **Data Science in Real Life** – July 2018
-- **Executive Data Science Capstone** – July 2018
-- **The Unix Workbench** – July 2018
-- **Google Cloud Platform Big Data and Machine Learning Fundamentals** – January 2019
-- **Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform** – January 2019
-- **Serverless Data Analysis with Google BigQuery and Cloud Dataflow** – January 2019
-- **Serverless Machine Learning with Tensorflow on Google Cloud Platform** – February 2019
-- **Building Resilient Streaming Systems on Google Cloud Platform** – March 2019
-- **Machine Learning Explainability** – Kaggle Learn – May 2019
-- **Foundations of strategic business analytics** – July 2019
-- **Foundations of marketing analytics** – July 2019
-- **Case studies in business analytics with ACCENTURE** – August 2019
-- **Capstone: Create Value from Open Data** – September 2019
-- **The Manager's Toolkit: A Practical Guide to Managing People at Work** – September 2019
-- **Data quality fundamentals** – Feb 2020 (Udemy)
-- **Big Data, Genes and Medicine** – Feb 2020 (Coursera)
-- **Improving your Statistical Inferences** – May 2020 (Coursera)
-- **Improving your Statistical Questions** – May 2020 (Coursera)
-- **ISO 13485:2016 for Medical Device Development and QMS** - October 2020 (Udemy)
+- **Microsoft 365 Fundamentals** – June 2021 (Udemy)
+- **Mental Health Awareness training for managers – May 2021** (High Speed Training)
+- **Internal audit on Medical Device QMS - ISO 13485:2016** – November 2020 (Udemy)
+- **Medical Devices Quality Management System - ISO13485:2016** – October 2020 (Udemy)
 - **Data Governance Fundamentals** - October 2020 (Udemy)
+- **ISO 13485:2016 for Medical Device Development and QMS** - October 2020 (Udemy)
+- **Improving your Statistical Questions** – May 2020 (Coursera)
+- **Improving your Statistical Inferences** – May 2020 (Coursera)
+- **Big Data, Genes and Medicine** – Feb 2020 (Coursera)
+- **Data quality fundamentals** – Feb 2020 (Udemy)
+- **The Manager's Toolkit: A Practical Guide to Managing People at Work** – September 2019
+- **Capstone: Create Value from Open Data** – September 2019
+- **Case studies in business analytics with ACCENTURE** – August 2019
+- **Foundations of marketing analytics** – July 2019
+- **Foundations of strategic business analytics** – July 2019
+- **Machine Learning Explainability** – Kaggle Learn – May 2019
+- **Building Resilient Streaming Systems on Google Cloud Platform** – March 2019
+- **Serverless Machine Learning with Tensorflow on Google Cloud Platform** – February 2019
+- **Serverless Data Analysis with Google BigQuery and Cloud Dataflow** – January 2019
+- **Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform** – January 2019
+- **Google Cloud Platform Big Data and Machine Learning Fundamentals** – January 2019
+- **The Unix Workbench** – July 2018
+- **Executive Data Science Capstone** – July 2018
+- **Data Science in Real Life** – July 2018
+- **Managing Data Analysis** – July 2018
+- **Building a Data Science Team** – June 2018
+- **A Crash Course in Data Science** – June 2018
+- **Tableau 10: Practical and Concise** – Udemy, July 2018
+- **Sequence models** – March 2018
+- **Data science ethics** – February 2018
+- **Convolutional Neural Networks** – February 2018
+- **Structuring Machine Learning Projects** – January 2018
+- **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization** – Coursera – January 2018
+- **Neural Networks and Deep Learning** – Coursera – December 2017
+- **Big Data with Hadoop and Spark** – CloudxLab – June 2017
+- **Agile and Scrum Bootcamp** – Udemy – June 2017
+- **Research Data Management and Sharing** – Coursera – May 2017
+- **Linear Algebra Refresher** – Udacity – May 2017
+- **Python Beyond the Basics** - Object-Oriented Programming – Udemy – April 2017
+- **Big Data and Social Analytics** – MIT Experimental Learning – March 2017
+- **Data Visualisation and D3js** – Udacity – March 2017
+- **Javascript Basics** – Udacity – March 2017
+- **Numpy stack** – Udemy – Feb 2017
+- **Managing Big Data with MySQL** – Coursera – August 2016
+- **Bayesian Statistics** – Coursera - August 2016
+- **Time Series Analysis and Forecasting in R** – July 2016
+- **Supercharge R with SparkR** – Udemy - June 2016
+- **Workshop in Probability and Statistics** – Udemy – June 2016
+- **Machine Learning** – Coursera – June 2016
+- **R for Big Data** – Newcastle University – June 2016
+- **Data Science Capstone** – Coursera – April 2016
+- **Hadoop Starter Kit** – Udemy – Jan 2016
+- **Practical SQL Skills** – Udemy – Jan 2016
+- **Python Step by Step: Build a Data Analysis Program** – Udemy – Jan 2016
+- **Taming Big Data with MapReduce and Hadoop** – Udemy – Jan 2016
+- **Developing Data Products** – Coursera – Jan 2016
+- **Practical Machine Learning** – Coursera – Jan 2016
+- **Regression Models** – Coursera – Jan 2016
+- **Statistical Inference** - Coursera – Nov 2015
+- **Reproducible Research** – Coursera – Nov 2015
+- **Exploratory Data Analysis** – Coursera – Nov 2015
+- **Getting and Cleaning Data** – Coursera – Nov 2015
+- **R Programming** – Coursera – Nov 2015
+- **The Data Scientist’s Toolbox** – Coursera - Nov 2015
 
--	Regular attendance at a monthly Leeds **data-science meetup**
+-	Regular attendance at a monthly Leeds **data-science meetup** (unfortunately this ended with Covid-19 and has yet to return)
 
 ### Formal education
 
+- *Undergraduate Advanced Diploma in IT Systems Analysis and Design (Online), University of Oxford (in progress, 2021 - 2022)*
+- Certificate, Manufacturing Excellence, University of Leeds (2011)
 - PhD Physics, University of Leeds (2007)
 - MSc Nanoscale Science & Technology, University of Leeds (2004)
 - BSc Physics with Astrophysics, University of York (2001)
