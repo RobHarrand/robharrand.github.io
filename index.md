@@ -5,6 +5,15 @@ This site gives an overview of my data science projects and completed courses.
 Contact me at [tentotheminus9@gmail.com](tentotheminus9@gmail.com)  
 Last update: 12th January 2022
 
+## Sections
+
+- Public projects [public_projects](#public_projects)
+- Work projects [work_projects](#work_projects)
+- Blog posts [blog_posts](#blog_posts)
+- Self-learning courses [self_learning](#self_learning)
+- Formal education [formal_edu](#formal_edu)
+
+<a name="public_projects"></a>
 ### Public projects
 
 #### Kaggle
@@ -48,6 +57,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
   - [Visualizing Factory Farms for The Humane League's 88% campaign](https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660): A Shiny app for a Humane League charity campaign
   - [House price prediction app using Python and Flask deployed on Heroku](http://houseprice2020.herokuapp.com/): A short project that used some house price data from Kaggle to create a machine-learning model (using **random forest** and **hyperparameter tuning**), then deployed online via **Heroku** and **Flask**.
 
+<a name="work_projects"></a>
 ### Work projects
 
 - Implementing **data management** and **data quality** standard operating procedures: This is an ongoing piece of work, improving the overall data maturity of the company. This is being done by improving systems and processes, and the data literacy of staff  
