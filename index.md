@@ -7,11 +7,11 @@ Last update: 12th January 2022
 
 ## Sections
 
-- Public projects [public_projects](#public_projects)
-- Work projects [work_projects](#work_projects)
-- Blog posts [blog_posts](#blog_posts)
-- Self-learning courses [self_learning](#self_learning)
-- Formal education [formal_edu](#formal_edu)
+- [Public projects](#public_projects)
+- [Work projects](#work_projects)
+- [Blog posts]](#blog_posts)
+- [Self-learning courses]](#self_learning)
+- [Formal education](#formal_edu)
 
 <a name="public_projects"></a>
 ### Public projects
@@ -78,6 +78,7 @@ I've spent many, many hours on **Kaggle** over the years, working on data-set pr
 - Consultancy work on data-driven dashboard design
 - Consultancy work on a machine-learning model that uses **Natural Language Processing (NPL)** to auto-classify government tenders
 
+<a name="blog_posts"></a>
 ### Blog posts
 
 Several of the posts below have been picked up by the 'Towards Data Science' team on Medium,
@@ -127,6 +128,7 @@ Several of the posts below have been picked up by the 'Towards Data Science' tea
 - [Veterinary Data: Mining the Archives](https://medium.com/@tentotheminus9/data-in-veterinary-mining-the-archives-ce2a4b5f35d4)
 - [Veterinary Data: Your Untapped Commodity](https://towardsdatascience.com/data-in-veterinary-your-untapped-commodity-1d6ac67c3d5e)
 
+<a name="self_learning"></a>
 ### Self-learning courses completed
 
 I have always enjoyed data science courses, and have tended to alternate between courses and projects (working on projects after a few courses, to cement the concepts that I had just covered). Many of the below courses also involved project work.
@@ -198,6 +200,7 @@ I have always enjoyed data science courses, and have tended to alternate between
 
 -	Regular attendance at a monthly Leeds **data-science meetup** (unfortunately this ended with Covid-19 and has yet to return)
 
+<a name="formal_edu"></a>
 ### Formal education
 
 - *Undergraduate Advanced Diploma in IT Systems Analysis and Design (Online), University of Oxford (in progress, 2021 - 2022)*
