@@ -9,8 +9,8 @@ Last update: 12th January 2022
 
 - [Public projects](#public_projects)
 - [Work projects](#work_projects)
-- [Blog posts]](#blog_posts)
-- [Self-learning courses]](#self_learning)
+- [Blog posts](#blog_posts)
+- [Self-learning courses](#self_learning)
 - [Formal education](#formal_edu)
 
 <a name="public_projects"></a>
