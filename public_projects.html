@@ -33,42 +33,48 @@
 					<section id="main" class="wrapper">
 						<div class="inner">
 							<h1 class="major">Public Projects</h1>
-							<h2>Kaggle</h2>
-							<p>
 							
-							I've spent many, many hours on Kaggle over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  
+							<h4 id="kaggle">Kaggle</h4>
+<p>I&#39;ve spent many, many hours on <strong>Kaggle</strong> over the years, working on data-set projects, along with uploading my own collated and uploaded datasets. In fact, it was Kaggle that first introduced me to a lot of data-science concepts and tools. Here are some of my favourite mini-projects...  </p>
+<ul>
+<li><a href="https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model">What Causes Heart Disease? Explaining the Model</a>: A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (<strong>purmutation importance</strong>, <strong>SHAP values</strong> and <strong>partial plots</strong>) to explain what the model was doing. This notebook on <strong>machine-learning interpretability</strong> won &#39;kernel of the month&#39;</li>
+</ul>
+<p><img src="/images/heart.png" alt="Heart disease factors" width="400"/></p>
+<ul>
+<li><a href="https://www.kaggle.com/tentotheminus9/l-band-2017">Breakthrough Listen: L-Band Data</a>: My favourite hobby project to date, and one which kept me busy on many evenings and weekends. I started to look into data by SETI (the Search for Extraterrestrial Intelligence) after seeing that they&#39;d openly shared a huge collection of datasets. I uploaded some of the data to Kaggle and created this notebook, which recreates the findings from a research paper. I also uploaded some more data and created a <strong>deep learning</strong> model in <strong>keras</strong> to classify signal types (see <a href="SETI Simulated Signals - InceptionResNetV2">here</a>). Finally, I created some Python notebooks on <strong>Google Cloud Platform</strong> that did some novel data processing with SETI data. The files are on Github <a href="https://github.com/RobHarrand/SETI_GCP">here</a>  </li>
+</ul>
+<p><img src="/images/seti.png" alt="SETI data" width="400"/></p>
+<ul>
+<li><a href="https://github.com/RobHarrand/kaggle-bot">Kaggle Kernels bot mini-challenge</a>: A challenge set by Kaggle to create a &#39;bot&#39; that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a <strong>ROC plot</strong>  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r">Normal vs Pneumonia - Keras in R</a>: A notebook that uses keras to create a deep learning model, to tell the difference between normal and diseased radiograph images </li>
+</ul>
+<p><img src="/images/xray.png" alt="ROC plot" width="300"/></p>
+<ul>
+<li><a href="https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result">So, You Have a Diagnostic Test Result</a>: A lengthy notebook detailing the statistics behind diagnostic testing  </li>
+</ul>
+<p><img src="/images/diag.png" alt="Prior to posterior probability" width="300"/></p>
+<ul>
+<li><a href="https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial">Deep Learning Literature with Kaggle and Google Cloud Platform</a>: This was a fun project that used GCP to run a daily script (via <strong>cron</strong>) that downloaded the latest deep learning literature via the National Center for Biotechnology Information (NCBI) API, extract certain bits of information, and then update a Kaggle notebook using the Kaggle API. The team over at Kaggle really liked it and asked me to blog about it  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds">Sentiment Analysis and Wordclouds</a>: A simple notebook using a <strong>text-mining</strong> package in R  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/us-traffic-fatalities-and-ml-explainability">US Traffic Fatalities and ML Explainability</a>: A notebook that used <strong>BigQuery</strong> to get data on US traffic fatalities, and then to build and explain a machine-learning model  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/gravity-spy-deep-learning-model">Gravity Spy Deep Learning Model</a>: A keras-based notebook that creates a simple CNN for classification of some astronomy data  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/data-science-through-the-ages">Data Science Through the Ages</a>: A notebook analysing some Kaggle survey data  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r">Where is Xception Looking? Grad-CAM via R</a>: A notebook that uses <strong>Grad-CAM</strong> to show what parts of an images a deep learning model is using for it&#39;s decision making process  </li>
+</ul>
+<p><img src="/images/grad.png" alt="Grad-CAM" width="200"/>  </p>
+<ul>
+<li><a href="https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent">Linear Regression from scratch (Gradient Descent)</a>: A fun notebook that creates an animation of <strong>gradient descent</strong> in action!  </li>
+<li><a href="https://www.kaggle.com/tentotheminus9/central-limit-theorem-animation">Central Limit Theorem Animation</a>: Another fun notebook, showing the <strong>central limit theorem</strong> in action</li>
+</ul>
+<h4 id="other">Other</h4>
+<ul>
+<li><a href="https://datamillnorth.org/products/leeds-cycling-dashboard/">Leeds Cycling Dashboard</a>: A Shiny app showing cycling incidents in the Leeds area using open-data  </li>
+<li><a href="https://datamillnorth.org/products/leeds-public-health-dashboard/">Leeds Public Health Dashboard</a>: A Shiny app showing mortality and disease rates in the Leeds area using open-data  </li>
+<li><a href="https://robharrand.shinyapps.io/stoplivetransport_shiny/?_ga=2.60254445.112467894.1592949660-730778905.1592949660">Live pig transports across Europe in 2013</a>: A Shiny app for the &#39;Stop Live Transport&#39; charity campaign  </li>
+<li><a href="https://robharrand.shinyapps.io/HumaneLeague/?_ga=2.60254445.112467894.1592949660-730778905.1592949660">Visualizing Factory Farms for The Humane League&#39;s 88% campaign</a>: A Shiny app for a Humane League charity campaign</li>
+<li><a href="http://houseprice2020.herokuapp.com/">House price prediction app using Python and Flask deployed on Heroku</a>: A short project that used some house price data from Kaggle to create a machine-learning model (using <strong>random forest</strong> and <strong>hyperparameter tuning</strong>), then deployed online via <strong>Heroku</strong> and <strong>Flask</strong>.</li>
+</ul>
 							
-							<ul>
-							<li>[What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model): A challenge set by Kaggle to create a notebook that included a machine-learning model of some sort, and then to use various tools and techniques (**purmutation importance**, **SHAP values** and **partial plots**) to explain what the model was doing. This notebook on **machine-learning interpretability** won 'kernel of the month'
-
-							<img src="/images/heart.png" alt="Heart disease factors" width="400"/></li>
-
-							<li>[Breakthrough Listen: L-Band Data](https://www.kaggle.com/tentotheminus9/l-band-2017): My favourite hobby project to date, and one which kept me busy on many evenings and weekends. I started to look into data by SETI (the Search for Extraterrestrial Intelligence) after seeing that they'd openly shared a huge collection of datasets. I uploaded some of the data to Kaggle and created this notebook, which recreates the findings from a research paper. I also uploaded some more data and created a **deep learning** model in **keras** to classify signal types (see [here](SETI Simulated Signals - InceptionResNetV2)). Finally, I created some Python notebooks on **Google Cloud Platform** that did some novel data processing with SETI data. The files are on Github [here](https://github.com/RobHarrand/SETI_GCP)  
-
-							<img src="/images/seti.png" alt="SETI data" width="400"/></li>
-
-							<li> [Kaggle Kernels bot mini-challenge](https://github.com/RobHarrand/kaggle-bot): A challenge set by Kaggle to create a 'bot' that does something interesting on a Kaggle dataset. I created an R script that asks the user for a dataset, creates a new notebook for it via the Kaggle API, finds a CSV file, tries to figure out which column is the target variable, removes certain columns, imputes certain values, then applies 3 machine learning models and displays a **ROC plot**  </li>
-							 <li>[Normal vs Pneumonia - Keras in R](https://www.kaggle.com/tentotheminus9/normal-vs-pneumonia-keras-in-r): A notebook that uses keras to create a deep learning model, to tell the difference between normal and diseased radiograph images </li>
-
-							<img src="/images/xray.png" alt="ROC plot" width="300"/></li>
-
-							<li>[So, You Have a Diagnostic Test Result](https://www.kaggle.com/tentotheminus9/so-you-have-a-diagnostic-test-result): A lengthy notebook detailing the statistics behind diagnostic testing  </li>
-
-							<img src="/images/diag.png" alt="Prior to posterior probability" width="300"/></li>
-
-							 <li>[Deep Learning Literature with Kaggle and Google Cloud Platform](https://www.kaggle.com/tentotheminus9/deep-learning-literature-and-gcp-tutorial): This was a fun project that used GCP to run a daily script (via **cron**) that downloaded the latest deep learning literature via the National Center for Biotechnology Information (NCBI) API, extract certain bits of information, and then update a Kaggle notebook using the Kaggle API. The team over at Kaggle really liked it and asked me to blog about it  </li>
-							 <li>[Sentiment Analysis and Wordclouds](https://www.kaggle.com/tentotheminus9/sentiment-analysis-and-wordclouds): A simple notebook using a **text-mining** package in R  </li>
-							 <li>[US Traffic Fatalities and ML Explainability](https://www.kaggle.com/tentotheminus9/us-traffic-fatalities-and-ml-explainability): A notebook that used **BigQuery** to get data on US traffic fatalities, and then to build and explain a machine-learning model  </li>
-							 <li>[Gravity Spy Deep Learning Model](https://www.kaggle.com/tentotheminus9/gravity-spy-deep-learning-model): A keras-based notebook that creates a simple CNN for classification of some astronomy data  </li>
-							 <li>[Data Science Through the Ages](https://www.kaggle.com/tentotheminus9/data-science-through-the-ages): A notebook analysing some Kaggle survey data  </li>
-							 <li> [Where is Xception Looking? Grad-CAM via R](https://www.kaggle.com/tentotheminus9/where-is-xception-looking-grad-cam-via-r): A notebook that uses **Grad-CAM** to show what parts of an images a deep learning model is using for it's decision making process
-
-							<img src="/images/grad.png" alt="Grad-CAM" width="200"/>  </li>
-
-							 <li>[Linear Regression from scratch (Gradient Descent)](https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent): A fun notebook that creates an animation of **gradient descent** in action!  </li>
-							 <li>[Central Limit Theorem Animation](https://www.kaggle.com/tentotheminus9/central-limit-theorem-animation): Another fun notebook, showing the **central limit theorem** in action</li>
-							
-							</p>
 							</div>
 					</section>
 
